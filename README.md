@@ -17,7 +17,7 @@ Install these prerequisites to follow along with the tutorial. See free video tu
 
 
 ## Step 1. Clone the project
-
+https://github.com/dineshkannan010/election_update.git
 
 ## Step 2. Install dependencies
 ```
